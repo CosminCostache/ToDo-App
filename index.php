@@ -192,7 +192,7 @@
     <div class="modal-dialog" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="delete_todo_modal_label">Edit ToDo</h5>
+          <h5 class="modal-title" id="delete_todo_modal_label">Delete ToDo</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">×</span>
           </button>
@@ -207,7 +207,7 @@
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary btn-danger" data-dismiss="modal">Cancel</button>
-          <button id="delete_todo_modal_submit" type="submit" class="btn btn-primary btn-success">Edit todo
+          <button id="delete_todo_modal_submit" type="submit" class="btn btn-primary btn-success">Delete todo
           </button>
         </div>
       </div>
