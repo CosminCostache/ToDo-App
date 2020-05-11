@@ -10,7 +10,7 @@ Clone the project and copy to the htdocs folder(for Xampp, Lampp) or www folder(
 
 ### Step3:
 
-Make a database name 'testing' and import table 'todo.sql'. If you want to change database in process.php and list.php
+Make a database name 'testing' and import table 'testing.sql'. If you want to change database in process.php and list.php
 
 ```
 ### database_connection.php
@@ -19,6 +19,7 @@ session_start();
 $_SESSION["category_id"] = "1";
 
 ```
+
 ### Step4:
 
 Run the project on your browser.. http://localhost/TODO
